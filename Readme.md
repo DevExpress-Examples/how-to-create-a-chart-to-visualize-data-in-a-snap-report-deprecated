@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/SnapChartAPI/Form1.cs) (VB: [Form1.vb](./VB/SnapChartAPI/Form1.vb))
+<!-- default file list end -->
 # How to create a chart to visualize data in a Snap report
 
 
